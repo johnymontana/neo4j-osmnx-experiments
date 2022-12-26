@@ -1,6 +1,6 @@
-# python-notebook-template
+# neo4j-osmnx-experiments
 
-A template project for Python / Jupyter projects using Poetry.
+Working with OpenStreetMap data in Neo4j using OSMnx.
 
 ## Setup
 
